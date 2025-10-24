@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61758265-5aeb-4305-b7a7-9f2cc7e3be8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/Accordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ScoreBadge.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ScoreGauge.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/ATS.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ATS.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/Summary.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/Summary.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/ResumeCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/ResumeCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761050067555</updated>
-      <workItem from="1761050068614" duration="39994000" />
+      <workItem from="1761050068614" duration="42922000" />
     </task>
     <servers />
   </component>
