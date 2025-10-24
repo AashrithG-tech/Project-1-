@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61758265-5aeb-4305-b7a7-9f2cc7e3be8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/components/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/pdf2img.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/ATS.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Details.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/Summary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/resume.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/ats-bad.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ats-bad.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/ats-good.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ats-good.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/ats-warning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ats-warning.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/back.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/back.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/check.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/cross.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/cross.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/info.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/info.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/pin.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/pin.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/public 2/icons/warning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/warning.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761050067555</updated>
-      <workItem from="1761050068614" duration="30861000" />
+      <workItem from="1761050068614" duration="37224000" />
     </task>
     <servers />
   </component>
